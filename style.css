@@ -1,0 +1,18 @@
+#tasks {
+  max-width: fit-content;
+}
+.task {
+  list-style: none;
+  border: 1px solid grey;
+  max-width: 300px;
+  padding: 10px;
+  background: #4f6d89;
+  color: white;
+  margin-bottom: 5px;
+}
+.task--completed {
+  background-color: green;
+}
+.task--completed label {
+  text-decoration: line-through;
+}
