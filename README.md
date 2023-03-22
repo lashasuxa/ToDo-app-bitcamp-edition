@@ -19,3 +19,5 @@
 5. complete button to filter completed tasks;
 
 label გამოვიყენეთ span ის მაგივრად , ამ შემთხვევაში label აქვს for რომელიც მიუთითების მის checkbox ზე user Experienc ისთვის ასე უკეთესია ტექსტზე დაკლიკებით მისი შესაბამისი checkbox უნდა ინიშნებოდეს
+
+data flow managment not UI
